@@ -1,0 +1,44 @@
+nav {
+    color: aqua;
+    text-align: center;
+    
+}
+h1 {
+    text-align: center;
+    color: aquamarine;
+}
+p {
+    line-height: 2px;
+    text-align: center;
+    color: white;
+}
+html {
+    height: 100%;
+}
+body {
+    background: 
+        linear-gradient(rgba(0,0,0,0.6),rgba(0, 0, 0, 0.6)),
+        url('https://pic1.imgdb.cn/i/1xRUBONXuoiv30eDn6Szxs.png') no-repeat center / cover;
+    background-attachment: scroll;
+    font-family: "汇文明朝体", "Huiwen Mingchao", serif;
+    text-align: center;
+    color: white;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+        /* 纵向排列 */
+    min-height: 100%;
+    margin: 0;
+}
+footer {
+    border-top: 2px solid #ffffff9e;
+    text-align: center;
+    color: white;
+    margin-top: auto;
+}
+a {
+    color:white;
+}
+td {
+    color: #aad9f2
+}
